@@ -1,0 +1,15 @@
+{
+  "$schema": "https://jsr.io/schema/config-file.v1.json",
+  "name": "@thingstodoiniceland/icelandic-place-slug",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": "./mod.ts",
+  "publish": {
+    "include": [
+      "LICENSE",
+      "README.md",
+      "mod.ts",
+      "mod_test.ts"
+    ]
+  }
+}
