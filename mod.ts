@@ -4,6 +4,9 @@
  * The functions are deliberately small and dependency-free. They do not try
  * to translate names or decide which spelling is correct.
  *
+ * For real visitor-facing spellings, see the
+ * [Iceland attractions directory](https://thingstodoiniceland.is/attractions).
+ *
  * @module
  */
 
